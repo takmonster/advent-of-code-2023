@@ -1,0 +1,1 @@
+Looked on the Internet for help on this one. Run.php is my brute force attempt, and after running it for hours, I decided to look for hints. Idea.php is the result of that, which is what got it to eventually determine the correct answer.
